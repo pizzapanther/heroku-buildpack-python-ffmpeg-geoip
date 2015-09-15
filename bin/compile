@@ -168,6 +168,12 @@ source $BIN_DIR/steps/pip-uninstall
 # Mercurial support.
 source $BIN_DIR/steps/mercurial
 
+# GeoIP support.
+source $BIN_DIR/steps/geoip
+
+# FFMPEG support.
+source $BIN_DIR/steps/ffmpeg
+
 # Pylibmc support.
 source $BIN_DIR/steps/pylibmc
 
