@@ -187,7 +187,7 @@ source $BIN_DIR/steps/gdal
 source $BIN_DIR/steps/pip-install
 
 # Django collectstatic support.
-#sub-env $BIN_DIR/steps/collectstatic
+sub-env $BIN_DIR/steps/collectstatic
 
 
 # ### Finalize
