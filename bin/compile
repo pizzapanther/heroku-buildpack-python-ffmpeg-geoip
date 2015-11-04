@@ -172,7 +172,7 @@ source $BIN_DIR/steps/mercurial
 source $BIN_DIR/steps/geoip
 
 # FFMPEG support.
-#source $BIN_DIR/steps/ffmpeg
+source $BIN_DIR/steps/ffmpeg
 
 # Pylibmc support.
 source $BIN_DIR/steps/pylibmc
